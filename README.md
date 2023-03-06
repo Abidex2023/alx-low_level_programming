@@ -1,1 +1,1 @@
-0x06-pointers_arrays_strings
+README file for 0x07-pointers_arrays_strings
